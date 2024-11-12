@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1077269579410",
+    "project_id": "semana9lunes",
+    "storage_bucket": "semana9lunes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077269579410:android:41a3d7ea7fd8deda73084b",
+        "android_client_info": {
+          "package_name": "com.lupitech.semana9lunes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077269579410-aj55tjtllr6lmvpgd90edi93mjfmlapv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4D8GjZceIbO8N_aIW3Af-9h6R5pSIDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077269579410-aj55tjtllr6lmvpgd90edi93mjfmlapv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077269579410-11tqmhga6rv1ffe4o39q58ig4it086el.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lupitech.semana9lunes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
